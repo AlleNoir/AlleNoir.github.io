@@ -1,0 +1,59 @@
+
+.paragrafo1 {
+  color: black;
+  text-align: center;
+  font-family: Arial;
+  font-weight: bold;
+}
+.paragrafo2 {
+  color: black;
+  text-align: center;
+  font-family: Lato, sans-serif;
+  font-weight: bold;
+}
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 200;
+  line-height: 1;
+  font-size: 1rem;
+  color: orange;
+  padding: 2rem;
+  box-sizing: border-box;
+  background-color: lightgrey;
+}
+.title1 {
+  text-align: center;
+  color: orange;
+}
+
+h2{
+  color: orange;
+}
+h3{
+  color: orange;
+    text-decoration: none;
+}
+
+a {
+  color: orange;
+}
+ol {
+  margin-left: 1rem
+
+}
+
+.tabella1 {
+  width: 90%;
+  color: orange;
+
+
+}
+
+th, td {
+  text-align: left;
+  padding: 1px;
+
+}
+
+
+
